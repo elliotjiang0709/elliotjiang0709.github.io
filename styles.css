@@ -1,0 +1,31 @@
+h1 {
+    color: navy;
+}
+
+h2 {
+    color: purple
+}
+
+#p1 {
+    color: #009688;
+    border-color: black;
+    border-width: 1px;
+    border-style: dotted;
+}
+
+#p2 {
+    color: brown
+}
+
+.tacos {
+    font-size: 72px;
+}
+
+#chicken {
+    height:200px
+}
+
+#sponge {
+    height: 250px
+}
+
