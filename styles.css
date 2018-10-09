@@ -1,31 +1,33 @@
-h1 {
-    color: navy;
+
+
+.navbar-dark .navbar-brand {
+    color: red;
+}
+
+h1.display-4 {
+    padding:100px;
+    color: #061982;
+    font-family: 'Goblin One', cursive;
+    font-size: 80px;
+}
+
+.jumbotron {
+    background-image: url(england-squad.jpg);
+    background-attachment: fixed;
+    background-size:cover;
+    
+}
+
+.logo {
+    height:150px;
+}
+
+.headimage {
+    height:80px;
 }
 
 h2 {
-    color: purple
+    color: black;
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 30px;
 }
-
-#p1 {
-    color: #009688;
-    border-color: black;
-    border-width: 1px;
-    border-style: dotted;
-}
-
-#p2 {
-    color: brown
-}
-
-.tacos {
-    font-size: 72px;
-}
-
-#chicken {
-    height:200px
-}
-
-#sponge {
-    height: 250px
-}
-
